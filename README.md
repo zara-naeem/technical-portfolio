@@ -50,8 +50,6 @@ Click on the pencil icon to edit this file.
 
 ![index.html](assets/index.png)
 
-There are four text fields and three social media links for you to update.
-
 ### Update with your name 
 
 Replace your Name in Navigation Bar
