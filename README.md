@@ -28,7 +28,7 @@ In the Settings page, navigate to "Actions" and ensure “Allow all actions” i
 
 On the Settings page, navigate to "Options" and scroll to the bottom to the "GitHub Pages" section.
 
-Change the Source branch to "gh-pages" and keep the "/(root)" path and save this change. This contains the GitHub Actions workflow.
+Choose the Source branch and keep the "/(root)" path and save this change. This contains the GitHub Actions workflow.
 
 ![GitHubPages](assets/ghpages.png)
 
