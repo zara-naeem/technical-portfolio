@@ -83,7 +83,7 @@ To observe GitHub Actions building your page, go the "Actions" section of the re
 
 ![workflowrunning](assets/build1.png)
 
-Click on the "Update siteConfig.js" job. GitHub displays the actions it is taking to build & publish your portfolio.
+Click on the "Update index.html" job. GitHub displays the actions it is taking to build & publish your portfolio.
 
 ![buildrunning](assets/build2.png)
 
