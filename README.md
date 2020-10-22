@@ -7,7 +7,7 @@ This repository allows you to create your own technical portfolio page! You are 
 
 ## Fork and configure the portfolio template repository
 
-Navigate to the [tech-portfolio](https://github.com/tahseenkhan31/technical-portfolio) in your web browser.
+Navigate to the [tech-portfolio-repo](https://github.com/tahseenkhan31/technical-portfolio) in your web browser.
 
 Fork this repo to your GitHub user.
 
